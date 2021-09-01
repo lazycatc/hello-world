@@ -1,3 +1,3 @@
 # hello-world
 
-A try of branch
+A beginning repository
